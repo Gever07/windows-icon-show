@@ -9,9 +9,9 @@ A fun Python script that takes control of your Windows desktop icons and animate
 For the icons to move freely across the screen, **you must disable Windows' automatic icon grid alignment** before running the script:
 
 1. **Right-click** on an empty area of your Desktop.
-2. Hover over **View** (תצוגה).
-3. **Uncheck** **Align icons to grid** (יישר סמלים לרשת)[cite: 5].
-4. *(Optional)* Make sure **Auto arrange icons** (סדר סמלים באופן אוטומטי) is also **unchecked**.
+2. Hover over **View**.
+3. **Uncheck** **Align icons to grid** 
+4. *(Optional)* Make sure **Auto arrange icons** is also **unchecked**.
 
 > **Note:** If "Align icons to grid" remains enabled, Windows will snap the icons back into place and block the smooth animation.
 
